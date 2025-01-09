@@ -8,7 +8,7 @@
         ],
         "update": {
             "delete": [],
-            "add": ["/plugins/Ck.js"],
+            "add": ["plugins/Ck.js"],
             "modify": []
         }
     }
