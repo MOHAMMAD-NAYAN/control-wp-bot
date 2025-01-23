@@ -1,1 +1,31 @@
-[]
+[
+    {
+        "version": "1.0.1",
+        "date": "2025-01-23",
+        "changes": [
+            "new plugins added"
+        ],
+        "update": {
+            "delete": [],
+            "add": [
+                "plugins/song.js",
+                "plugins/out.js",
+                "plugins/contact.js",
+                "plugins/createGrp.js",
+                "plugins/gemini.js",
+                "plugins/getLink.js",
+                "plugins/imagine.js",
+                "plugins/profilePic.js",
+                "plugins/tagAll.js",
+                "plugins/user.js",
+                "plugins/translate.js",
+                "plugins/rndmadd.js"
+            ],
+            "modify": [
+              "config.json",
+              "index.js",
+              "package.json"
+            ]
+        }
+    }
+]
