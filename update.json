@@ -10,6 +10,7 @@
             "add": [
                 "plugins/song.js",
                 "plugins/out.js",
+                "plugins/bot.js",
                 "plugins/contact.js",
                 "plugins/createGrp.js",
                 "plugins/gemini.js",
