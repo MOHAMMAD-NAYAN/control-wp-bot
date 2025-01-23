@@ -20,7 +20,9 @@
                 "plugins/tagAll.js",
                 "plugins/user.js",
                 "plugins/translate.js",
-                "plugins/rndmadd.js"
+                "plugins/rndmadd.js",
+                "index.js",
+                "plugins/ai.js"
             ],
             "modify": [
               "config.json",
