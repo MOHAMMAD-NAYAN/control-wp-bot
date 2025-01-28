@@ -30,5 +30,25 @@
               "package.json"
             ]
         }
+    },
+    
+    {
+        "version": "1.0.2",
+        "date": "2025-01-28",
+        "changes": [
+            "new plugins added",
+            "cooldowns function added",
+            "ai cmnd fix"
+        ],
+        "update": {
+            "delete": [],
+            "add": [
+                "plugins/video.js"
+            ],
+            "modify": [
+              "index.js",
+              "package.json"
+            ]
+        }
     }
 ]
