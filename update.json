@@ -50,5 +50,28 @@
               "package.json"
             ]
         }
+    },
+
+    {
+        "version": "1.0.3",
+        "date": "2025-01-30",
+        "changes": [
+            "new plugins added",
+            "system update",
+            "restart and say plugin added"
+        ],
+        "update": {
+            "delete": [],
+            "add": [
+                "plugins/say.js",
+                "plugins/restart.js",
+                "main.js"
+            ],
+            "modify": [
+              "index.js",
+              "plugins/bot.js",
+              "package.json"
+            ]
+        }
     }
 ]
