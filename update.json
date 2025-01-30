@@ -70,6 +70,7 @@
             "modify": [
               "index.js",
               "plugins/bot.js",
+              "plugins/topmembers.js",
               "package.json"
             ]
         }
