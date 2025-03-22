@@ -74,5 +74,27 @@
               "package.json"
             ]
         }
+    },
+    {
+        "version": "1.0.4",
+        "date": "2025-03-22",
+        "changes": [
+            "new plugins added",
+            "system update",
+            "shell and sendfile plugin added",
+            "handleReply and handleReaction function added"
+        ],
+        "update": {
+            "delete": [],
+            "add": [
+                "plugins/sendfile.js",
+                "plugins/shell.js",
+                "main.js"
+            ],
+            "modify": [
+              "main.js",
+              "package.json"
+            ]
+        }
     }
 ]
